@@ -1,0 +1,34 @@
+{
+  "address": "Calle Francia",
+  "city": "Fuenlabrada",
+  "apartments": [
+    {
+      "floor": 1,
+      "door": "a",
+      "owners": [
+        {
+          "name": "Miguel",
+          "surname": "Sánchez Muñoz"
+        },
+        {
+          "name": "Álvaro",
+          "surname": "Sánchez Muñoz"
+        }
+      ]
+    },
+    {
+      "floor": 1,
+      "door": "b",
+      "owners": [
+        {
+          "name": "Marta",
+          "surname": "Sánchez Muñoz"
+        },
+        {
+          "name": "Antonio",
+          "surname": "Sánchez Muñoz"
+        }
+      ]
+    }
+  ]
+}
